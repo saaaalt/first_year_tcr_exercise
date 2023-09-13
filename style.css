@@ -4,17 +4,17 @@
   box-sizing: border-box;
 }
 .left {
-  width: 700px;
-  height: 500px;
+  width: 600px;
+  height: 400px;
   object-fit: contain;
-  padding: 25px 50px 60px;
+  padding: 25px 25px 60px;
   float: left;
 }
 .right {
   width: 600px;
   height: 400px;
   object-fit: contain;
-  padding: 25px 40px 60px;
+  padding: 25px 25px 60px;
   float: right;
 }
 html {
